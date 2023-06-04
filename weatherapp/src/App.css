@@ -1,0 +1,35 @@
+.inputForm{
+  outline: none;
+  background-color: transparent;
+  border-bottom: 2px solid black;
+  text-align: center;
+  color: white;
+  font-size: 20px;
+}
+.showWeather{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.weatherSunny{
+  width: 110px;
+}
+.weatherCloudy{
+  width: 130px;
+}
+.weatherRain{
+  width: 130px;
+}
+.showButton{
+  border: 2px solid black;
+  width: 150px;
+  height: 40px;
+  font-size: 15px;
+  border-radius: 15px;
+  color: white;
+  
+}
+footer{
+  margin-top: 161.5px;
+}
